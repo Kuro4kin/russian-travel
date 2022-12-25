@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+  .place-image_padding_bottom {
+    padding-bottom: 23px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place-image_padding_bottom {
+    padding-bottom: 0;
+  }
+}
