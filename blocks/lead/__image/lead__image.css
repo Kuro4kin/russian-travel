@@ -1,0 +1,11 @@
+ .lead__image {
+  width: 100%;
+  height: auto;
+  object-fit: scale-down;
+}
+
+@media screen and (max-width: 320px) {
+  .lead__image {
+    min-height: 200px;
+  }
+}

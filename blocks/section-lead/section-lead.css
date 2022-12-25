@@ -1,0 +1,21 @@
+.section-lead {
+  padding: 56px 100px 92px 100px;
+}
+
+@media screen and (max-width: 1024px) {
+  .section-lead {
+    padding: 48px 48px 92px 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section-lead {
+    padding: 49px 0 89px 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .section-lead {
+    padding-bottom: 64px;
+  }
+}

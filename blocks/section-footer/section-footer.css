@@ -1,0 +1,27 @@
+.section-footer {
+  padding-top: 94px;
+}
+
+@media screen and (max-width: 1024px) {
+  .section-footer {
+    padding-left: 48px;
+    padding-right: 48px;
+    padding-top: 87px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section-footer {
+    padding-top: 88px;
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .section-footer {
+    padding-top: 64px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}

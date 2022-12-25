@@ -1,0 +1,23 @@
+@media screen and (max-width: 1024px) {
+  .section-header {
+    padding: 0 48px 0 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section-header {
+    padding: 0 24px 0 24px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .section-header {
+    padding: 0 16px 0 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .section-header {
+    padding: 0 16px 0 16px;
+  }
+}
