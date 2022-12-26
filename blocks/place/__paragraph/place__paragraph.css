@@ -1,11 +1,11 @@
-.place-paragraph {
+.place__paragraph {
   grid-area: paragraph;
   margin: 0;
   padding: 0;
 }
 
 @media screen and (max-width: 320px) {
-  .place-paragraph {
+  .place__paragraph {
     padding: 0 16px;
   }
 }

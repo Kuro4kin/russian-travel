@@ -1,0 +1,21 @@
+.places-item {
+  padding-bottom: 80px;
+}
+
+@media screen and (max-width: 1024px) {
+  .places-item {
+    padding-bottom: 57px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .places-item {
+    padding-bottom: 52px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .places-item {
+    padding-bottom: 21px;
+  }
+}

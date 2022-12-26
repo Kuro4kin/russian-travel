@@ -2,21 +2,15 @@
   padding: 0 0 85px 0;
 }
 
-@media screen and (max-width: 1024px) {
-  .section-photo-grid {
-    padding-bottom: 85px;
-  }  
-}
-
 @media screen and (max-width: 768px) {
   .section-photo-grid {
     padding-bottom: 89px;
-  }  
+  }
 }
 
 @media screen and (max-width: 320px) {
   .section-photo-grid {
-    padding-bottom: 60px;
-  }  
+    padding-bottom: 64px;
+  }
 }
 

@@ -8,12 +8,6 @@
   }
 }
 
-@media screen and (max-width: 883px) {
-  .section-intro {
-    padding: 0 29px 0 29px;
-  }
-}
-
 @media screen and (max-width: 768px) {
   .section-intro {
     max-width: 720px;
