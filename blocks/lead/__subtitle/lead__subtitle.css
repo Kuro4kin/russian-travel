@@ -12,12 +12,14 @@
   .lead__subtitle {
     max-width: 600px;
     padding-bottom: 57px;
+    text-indent: -7px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .lead__subtitle {
     padding: 0 0 56px 0;
+    text-indent: 0;
   }
 }
 

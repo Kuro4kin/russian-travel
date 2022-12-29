@@ -4,18 +4,18 @@
 
 @media screen and (max-width: 1024px) {
   .places-item {
-    padding-bottom: 57px;
+    padding-bottom: 79px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .places-item {
-    padding-bottom: 52px;
+    padding-bottom: 74px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places-item {
-    padding-bottom: 21px;
+    padding-bottom: 45px;
   }
 }

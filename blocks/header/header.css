@@ -1,5 +1,5 @@
 .header {
-  width: 100%;
+  width: calc(100%-96px);
   display: flex;
   flex-direction: row;
   justify-content: space-between;

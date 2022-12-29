@@ -1,3 +1,7 @@
+.section-header {
+  padding: 0 48px;
+}
+
 @media screen and (max-width: 1024px) {
   .section-header {
     padding: 0 48px 0 48px;

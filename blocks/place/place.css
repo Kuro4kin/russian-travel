@@ -15,19 +15,25 @@
   .place {
     column-gap: 32px;
     grid-template-columns: 440px 1fr;
-    row-gap: 48px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 896px) {
   .place {
     column-gap: 28px;
     grid-template-columns: 340px 1fr;
-    row-gap: 44px;
+    row-gap: 46px;
   }
 }
 
-@media screen and (max-width: 639px) {
+@media screen and (max-width: 767px) {
+  .place {
+    grid-template-columns: 260px 1fr;
+    row-gap: 16px;
+  }
+}
+
+@media screen and (max-width: 700px) {
   .place {
     grid-template-columns: 100%;
     grid-template-areas:

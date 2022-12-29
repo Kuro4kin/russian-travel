@@ -6,9 +6,16 @@
   padding-bottom: calc((62.5%/2) - 125px);
 }
 
+@media screen and (max-width: 767px) {
+  .cover__text {
+    padding-top: calc((62.5%/2) - 88.7px);
+    padding-bottom: calc((62.5%/2) - 88.7px);
+  }
+}
+
 @media screen and (max-width: 578px) {
   .cover__text {
     padding-top: calc((62.5%/2) - 68.5px);
     padding-bottom: calc((62.5%/2) - 68.5px);
-  } 
+  }
 }

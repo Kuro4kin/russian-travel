@@ -6,17 +6,16 @@
   color: #ffffff;
 }
 
-.place__paragraph-item:not(last-of-type) {
+.place__paragraph-item:not(:last-of-type) {
   margin-bottom: 26px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 896px) {
   .place__paragraph-item {
     font-size: 16px;
-    line-height: 1.63;
   }
 
-  .place__paragraph-item:not(last-of-type) {
+  .place__paragraph-item:not(:last-of-type) {
     margin-bottom: 24px;
   }
 }
